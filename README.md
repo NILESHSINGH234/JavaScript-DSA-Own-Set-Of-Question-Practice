@@ -2,3 +2,4 @@
 - Two.js question number is a Find unique number in an array
 - Three.js question Pair sum problem
 - four.js question  Merge sort
+- five.js Binary Search
