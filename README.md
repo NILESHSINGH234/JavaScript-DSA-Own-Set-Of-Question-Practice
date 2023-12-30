@@ -3,4 +3,4 @@
 - Three.js question Pair sum problem
 - four.js question  Merge sort
 - five.js Binary Search
-- Selection Sort
+- Six.js Selection Sort
