@@ -4,3 +4,4 @@
 - four.js question  Merge sort
 - five.js Binary Search
 - Six.js Selection Sort
+- seven.js Bubble Sort
