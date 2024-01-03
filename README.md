@@ -5,3 +5,4 @@
 - five.js Binary Search
 - Six.js Selection Sort
 - seven.js Bubble Sort
+- Eight.js Push zero to end
