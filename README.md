@@ -8,3 +8,5 @@
 - Eight.js Push zero to end
 - Nine.js Second Largest number in an array
 - Ten.js Sort 0 1 2 in an array
+- eleven.js is a add two arrays
+- twelve.js is merge two sorted arrays
